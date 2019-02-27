@@ -124,7 +124,6 @@ function getSidebarCurrentEle (elem) {
   let sidebarRoot;
   let sidebarColorEle;
   let sidebarCurrentEle;
-
   const editorInstance = elem.closest('.project_editor_instance');
 
   if (editorInstance) {
